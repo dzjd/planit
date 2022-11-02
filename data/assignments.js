@@ -139,6 +139,13 @@ assignments = {
       "dueDate": "2022-11-04T23:59:00",
       "link": "https://www.gradescope.com/courses/420508",
       "submitted": false
+    },
+    {
+      "title": "Project 2a Academic Misconduct",
+      "course": "CS 61B",
+      "dueDate": "2022-11-02T00:00:00",
+      "link": "https://www.gradescope.com/courses/420508",
+      "submitted": false
     }
   ],
   "Data 88E": [
