@@ -293,8 +293,8 @@ assignments = {
       "title": "Lab 10",
       "course": "Data 88E",
       "dueDate": "2022-11-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/419567",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/419567/assignments/2416094/submissions/148751392",
+      "submitted": true
     },
     {
       "title": "Attendance 10 - Online",
