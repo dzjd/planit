@@ -244,8 +244,8 @@ assignments = {
       "title": "Project 3",
       "course": "Data 88E",
       "dueDate": "2022-11-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/419567",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/419567/assignments/2356184/submissions/148678313",
+      "submitted": true
     },
     {
       "title": "Attendance 7",
