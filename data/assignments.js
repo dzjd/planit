@@ -309,6 +309,13 @@ assignments = {
       "dueDate": "2022-11-08T16:00:00",
       "link": "https://www.gradescope.com/courses/419567",
       "submitted": false
+    },
+    {
+      "title": "Attendance 11",
+      "course": "Data 88E",
+      "dueDate": "2022-11-15T16:15:00",
+      "link": "https://www.gradescope.com/courses/419567/assignments/2436627/submissions/149051489",
+      "submitted": true
     }
   ],
   "MATH 1B": [
