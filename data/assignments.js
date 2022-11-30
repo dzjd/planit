@@ -328,7 +328,7 @@ assignments = {
       "title": "Attendance 12",
       "course": "Data 88E",
       "dueDate": "2022-11-29T16:00:00",
-      "link": "https://www.gradescope.com/courses/419567/assignments/2465833/submissions/new",
+      "link": "https://www.gradescope.com/courses/419567",
       "submitted": false
     }
   ],
