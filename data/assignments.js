@@ -123,7 +123,7 @@ assignments = {
       "title": "HW4: Final Review",
       "course": "CS 61B",
       "dueDate": "2022-12-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/420508",
+      "link": "https://www.gradescope.com/courses/420508/assignments/2370669/submissions/new",
       "submitted": false
     },
     {
