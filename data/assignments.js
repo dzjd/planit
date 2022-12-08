@@ -73,7 +73,7 @@ assignments = {
     {
       "title": "Project 1: Deques",
       "course": "CS 61B",
-      "dueDate": "2022-09-23T23:59:00",
+      "dueDate": "2022-12-09T23:59:00",
       "link": "https://www.gradescope.com/courses/420508/assignments/2230430/submissions/135487278",
       "submitted": true
     },
