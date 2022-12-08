@@ -3,28 +3,28 @@ assignments = {
     {
       "title": "Lab01",
       "course": "CS 61B",
-      "dueDate": "2022-09-02T23:59:00",
+      "dueDate": "2022-12-09T23:59:00",
       "link": "https://www.gradescope.com/courses/420508/assignments/2181782/submissions/131029423",
       "submitted": true
     },
     {
       "title": "Lab02",
       "course": "CS 61B",
-      "dueDate": "2022-09-02T23:59:00",
+      "dueDate": "2022-12-09T23:59:00",
       "link": "https://www.gradescope.com/courses/420508/assignments/2191171/submissions/131628661",
       "submitted": true
     },
     {
       "title": "Lab03",
       "course": "CS 61B",
-      "dueDate": "2022-09-09T23:59:00",
+      "dueDate": "2022-12-09T23:59:00",
       "link": "https://www.gradescope.com/courses/420508/assignments/2195062/submissions/132485822",
       "submitted": true
     },
     {
       "title": "Project 0: 2048",
       "course": "CS 61B",
-      "dueDate": "2022-09-02T23:59:00",
+      "dueDate": "2022-12-09T23:59:00",
       "link": "https://www.gradescope.com/courses/420508/assignments/2195550/submissions/131535778",
       "submitted": true
     },
@@ -38,21 +38,21 @@ assignments = {
     {
       "title": "Lab04",
       "course": "CS 61B",
-      "dueDate": "2022-09-16T23:59:00",
+      "dueDate": "2022-12-09T23:59:00",
       "link": "https://www.gradescope.com/courses/420508/assignments/2225909/submissions/134150731",
       "submitted": true
     },
     {
       "title": "Lab04A",
       "course": "CS 61B",
-      "dueDate": "2022-09-16T23:59:00",
+      "dueDate": "2022-12-09T23:59:00",
       "link": "https://www.gradescope.com/courses/420508/assignments/2228063/submissions/134149857",
       "submitted": true
     },
     {
       "title": "Lab04B",
       "course": "CS 61B",
-      "dueDate": "2022-09-16T23:59:00",
+      "dueDate": "2022-12-09T23:59:00",
       "link": "https://www.gradescope.com/courses/420508/assignments/2228065/submissions/134150308",
       "submitted": true
     },
@@ -80,7 +80,7 @@ assignments = {
     {
       "title": "Lab06",
       "course": "CS 61B",
-      "dueDate": "2022-09-30T23:59:00",
+      "dueDate": "2022-12-09T23:59:00",
       "link": "https://www.gradescope.com/courses/420508/assignments/2248219/submissions/137279871",
       "submitted": true
     },
@@ -94,21 +94,21 @@ assignments = {
     {
       "title": "Lab07",
       "course": "CS 61B",
-      "dueDate": "2022-10-07T23:59:00",
+      "dueDate": "2022-12-09T23:59:00",
       "link": "https://www.gradescope.com/courses/420508/assignments/2290540/submissions/138698790",
       "submitted": true
     },
     {
       "title": "Project 2a: Ngordnet (NGrams)",
       "course": "CS 61B",
-      "dueDate": "2022-10-12T23:59:00",
+      "dueDate": "2022-12-09T23:59:00",
       "link": "https://www.gradescope.com/courses/420508/assignments/2312957/submissions/139295330",
       "submitted": true
     },
     {
       "title": "Lab08",
       "course": "CS 61B",
-      "dueDate": "2022-10-14T23:59:00",
+      "dueDate": "2022-12-09T23:59:00",
       "link": "https://www.gradescope.com/courses/420508/assignments/2333095/submissions/140096704",
       "submitted": true
     },
@@ -129,7 +129,7 @@ assignments = {
     {
       "title": "Project 2b: Ngordnet (WordNet)",
       "course": "CS 61B",
-      "dueDate": "2022-11-01T23:59:00",
+      "dueDate": "2022-12-09T23:59:00",
       "link": "https://www.gradescope.com/courses/420508/assignments/2375648/submissions/144728115",
       "submitted": true
     },
@@ -143,7 +143,7 @@ assignments = {
     {
       "title": "Lab11",
       "course": "CS 61B",
-      "dueDate": "2022-11-04T23:59:00",
+      "dueDate": "2022-12-09T23:59:00",
       "link": "https://www.gradescope.com/courses/420508/assignments/2388169/submissions/145929384",
       "submitted": true
     }
