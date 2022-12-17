@@ -137,7 +137,7 @@ assignments = {
       "title": "Homework 3: Midterm 2 Conceptual Review [47B Only] ",
       "course": "CS 61B",
       "dueDate": "2022-12-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/420508/assignments/2383165/submissions/new",
+      "link": "https://www.gradescope.com/courses/420508",
       "submitted": false
     },
     {
