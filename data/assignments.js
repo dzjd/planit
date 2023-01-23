@@ -36,7 +36,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Mini-vitamin 1A",
+      "title": "Mini-Vitamin 1A",
       "course": "CS 70",
       "dueDate": "2023-01-24T12:30:00",
       "link": "https://www.gradescope.com/courses/494477/assignments/2599113/submissions/new",
