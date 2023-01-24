@@ -50,6 +50,13 @@ assignments = {
       "dueDate": "2023-01-24T18:00:00",
       "link": "https://www.gradescope.com/courses/478168/assignments/2556118/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Skill Quiz D1",
+      "course": "MATH 54",
+      "dueDate": "2023-01-24T18:00:00",
+      "link": "https://www.gradescope.com/courses/478168",
+      "submitted": false
     }
   ]
 };
