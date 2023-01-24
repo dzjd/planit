@@ -48,8 +48,8 @@ assignments = {
       "title": "WorkScript 0: Points Reporting",
       "course": "MATH 54",
       "dueDate": "2023-01-24T18:00:00",
-      "link": "https://www.gradescope.com/courses/478168/assignments/2556118/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/478168/assignments/2556118/submissions/156981565",
+      "submitted": true
     },
     {
       "title": "Skill Quiz D1",
