@@ -25,8 +25,8 @@ assignments = {
       "title": "Vitamin 1",
       "course": "CS 70",
       "dueDate": "2023-01-28T16:00:00",
-      "link": "https://www.gradescope.com/courses/494477/assignments/2584347/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/494477/assignments/2584347/submissions/156841098",
+      "submitted": true
     },
     {
       "title": "Homework 0",
@@ -55,8 +55,15 @@ assignments = {
       "title": "Skill Quiz D1",
       "course": "MATH 54",
       "dueDate": "2023-01-24T18:00:00",
-      "link": "https://www.gradescope.com/courses/478168",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/478168/assignments/2597386/submissions/156845607",
+      "submitted": true
+    },
+    {
+      "title": "Syllabus Quiz",
+      "course": "MATH 54",
+      "dueDate": "2023-01-24T18:00:00",
+      "link": "https://www.gradescope.com/courses/478168/assignments/2602783/submissions/156842301",
+      "submitted": true
     }
   ]
 };
