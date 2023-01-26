@@ -41,6 +41,13 @@ assignments = {
       "dueDate": "2023-01-24T12:30:00",
       "link": "https://www.gradescope.com/courses/494477/assignments/2599113/submissions/156807528",
       "submitted": true
+    },
+    {
+      "title": "Mini-vitamin 01B",
+      "course": "CS 70",
+      "dueDate": "2023-01-26T13:30:00",
+      "link": "https://www.gradescope.com/courses/494477/assignments/2609956/submissions/new",
+      "submitted": false
     }
   ],
   "MATH 54": [
