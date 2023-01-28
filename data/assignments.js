@@ -59,9 +59,9 @@ assignments = {
   ],
   "MATH 54": [
     {
-      "title": "WorkScript 0: Points Reporting",
+      "title": "Points Reporting: WorkScript 0",
       "course": "MATH 54",
-      "dueDate": "2023-01-24T18:00:00",
+      "dueDate": "2023-01-29T23:00:00",
       "link": "https://www.gradescope.com/courses/478168/assignments/2556118/submissions/156981565",
       "submitted": true
     },
