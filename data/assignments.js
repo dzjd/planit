@@ -62,6 +62,13 @@ assignments = {
       "dueDate": "2023-01-28T16:00:00",
       "link": "https://www.gradescope.com/courses/494477/assignments/2614230/submissions/157743917",
       "submitted": true
+    },
+    {
+      "title": "Mini-vitamin 2A",
+      "course": "CS 70",
+      "dueDate": "2023-01-31T13:30:00",
+      "link": "https://www.gradescope.com/courses/494477/assignments/2621926/submissions/new",
+      "submitted": false
     }
   ],
   "MATH 54": [
@@ -85,6 +92,13 @@ assignments = {
       "dueDate": "2023-01-24T18:00:00",
       "link": "https://www.gradescope.com/courses/478168/assignments/2602783/submissions/156842301",
       "submitted": true
+    },
+    {
+      "title": "Points Reporting: WorkScript 1",
+      "course": "MATH 54",
+      "dueDate": "2023-01-31T23:00:00",
+      "link": "https://www.gradescope.com/courses/478168/assignments/2617164/submissions/new",
+      "submitted": false
     }
   ]
 };
