@@ -94,6 +94,20 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Skill Quiz C1",
+      "course": "MATH 54",
+      "dueDate": "2023-01-31T18:00:00",
+      "link": "https://www.gradescope.com/courses/478168/assignments/2615255/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Skill Quiz E1",
+      "course": "MATH 54",
+      "dueDate": "2023-01-31T18:00:00",
+      "link": "https://www.gradescope.com/courses/478168/assignments/2616375/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Points Reporting: WorkScript 1",
       "course": "MATH 54",
       "dueDate": "2023-01-31T23:00:00",
