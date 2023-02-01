@@ -69,6 +69,13 @@ assignments = {
       "dueDate": "2023-01-31T12:30:00",
       "link": "https://www.gradescope.com/courses/494477/assignments/2621926/submissions/158445057",
       "submitted": true
+    },
+    {
+      "title": "Mini-vitamin 2B",
+      "course": "CS 70",
+      "dueDate": "2023-02-02T12:30:00",
+      "link": "https://www.gradescope.com/courses/494477/assignments/2625935/submissions/new",
+      "submitted": false
     }
   ],
   "MATH 54": [
@@ -97,15 +104,15 @@ assignments = {
       "title": "Skill Quiz C1",
       "course": "MATH 54",
       "dueDate": "2023-01-31T18:00:00",
-      "link": "https://www.gradescope.com/courses/478168/assignments/2615255/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/478168/assignments/2615255/submissions/158506247",
+      "submitted": true
     },
     {
       "title": "Skill Quiz E1",
       "course": "MATH 54",
       "dueDate": "2023-01-31T18:00:00",
-      "link": "https://www.gradescope.com/courses/478168/assignments/2616375/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/478168/assignments/2616375/submissions/158527211",
+      "submitted": true
     },
     {
       "title": "Points Reporting: WorkScript 1",
