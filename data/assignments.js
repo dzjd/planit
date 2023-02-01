@@ -74,8 +74,8 @@ assignments = {
       "title": "Mini-vitamin 2B",
       "course": "CS 70",
       "dueDate": "2023-02-02T12:30:00",
-      "link": "https://www.gradescope.com/courses/494477/assignments/2625935/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/494477/assignments/2625935/submissions/158739753",
+      "submitted": true
     }
   ],
   "MATH 54": [
