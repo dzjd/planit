@@ -80,7 +80,7 @@ assignments = {
   ],
   "MATH 54": [
     {
-      "title": "Points Reporting: WorkScript 0",
+      "title": "Habits: WorkScript 0",
       "course": "MATH 54",
       "dueDate": "2023-01-29T23:00:00",
       "link": "https://www.gradescope.com/courses/478168/assignments/2556118/submissions/156981565",
@@ -115,11 +115,18 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Points Reporting: WorkScript 1",
+      "title": "Habits: WorkScript 1",
       "course": "MATH 54",
       "dueDate": "2023-01-31T23:00:00",
       "link": "https://www.gradescope.com/courses/478168/assignments/2617164/submissions/158411126",
       "submitted": true
+    },
+    {
+      "title": "opt-in for Lec-002",
+      "course": "MATH 54",
+      "dueDate": "2023-02-08T18:00:00",
+      "link": "https://www.gradescope.com/courses/478168/assignments/2632861/submissions/new",
+      "submitted": false
     }
   ]
 };
