@@ -81,8 +81,8 @@ assignments = {
       "title": "Homework 2",
       "course": "CS 70",
       "dueDate": "2023-02-04T16:00:00",
-      "link": "https://www.gradescope.com/courses/494477",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/494477/assignments/2634541/submissions/159518568",
+      "submitted": true
     }
   ],
   "MATH 54": [
