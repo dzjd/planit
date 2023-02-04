@@ -134,6 +134,13 @@ assignments = {
       "dueDate": "2023-02-08T18:00:00",
       "link": "https://www.gradescope.com/courses/478168/assignments/2632861/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "ODE project -- draft of solution(s) -- for folks opting into Lec002",
+      "course": "MATH 54",
+      "dueDate": "2023-02-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/478168/assignments/2637764/submissions/new",
+      "submitted": false
     }
   ]
 };
