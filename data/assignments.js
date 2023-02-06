@@ -83,6 +83,27 @@ assignments = {
       "dueDate": "2023-02-04T16:00:00",
       "link": "https://www.gradescope.com/courses/494477/assignments/2634541/submissions/159518568",
       "submitted": true
+    },
+    {
+      "title": "Vitamin 3",
+      "course": "CS 70",
+      "dueDate": "2023-02-11T16:00:00",
+      "link": "https://www.gradescope.com/courses/494477/assignments/2641471/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Homework 3",
+      "course": "CS 70",
+      "dueDate": "2023-02-11T16:00:00",
+      "link": "https://www.gradescope.com/courses/494477",
+      "submitted": false
+    },
+    {
+      "title": "Vitamin 8",
+      "course": "CS 70",
+      "dueDate": "2023-10-22T16:00:00",
+      "link": "https://www.gradescope.com/courses/494477",
+      "submitted": false
     }
   ],
   "MATH 54": [
