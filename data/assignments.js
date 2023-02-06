@@ -99,13 +99,6 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Vitamin 8",
-      "course": "CS 70",
-      "dueDate": "2023-10-22T16:00:00",
-      "link": "https://www.gradescope.com/courses/494477",
-      "submitted": false
-    },
-    {
       "title": "Mini-Vitamin 3A",
       "course": "CS 70",
       "dueDate": "2023-02-07T12:30:00",
