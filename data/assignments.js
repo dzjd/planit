@@ -177,5 +177,6 @@ assignments = {
       "link": "https://www.gradescope.com/courses/478168/assignments/2637764/submissions/new",
       "submitted": false
     }
-  ]
+  ],
+  "Math 54": []
 };
