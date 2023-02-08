@@ -146,14 +146,14 @@ assignments = {
       "title": "Skill Quiz E2 - for folks opting into Lec 002 ",
       "course": "MATH 54",
       "dueDate": "2023-02-07T18:00:00",
-      "link": "https://www.gradescope.com/courses/478168/assignments/2616936/submissions/new",
+      "link": "https://www.gradescope.com/courses/478168",
       "submitted": false
     },
     {
       "title": "Skill Quiz C2 + E3 -- for folks opting into Lec 002 ",
       "course": "MATH 54",
       "dueDate": "2023-02-07T18:00:00",
-      "link": "https://www.gradescope.com/courses/478168/assignments/2616937/submissions/new",
+      "link": "https://www.gradescope.com/courses/478168",
       "submitted": false
     },
     {
