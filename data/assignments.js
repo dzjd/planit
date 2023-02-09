@@ -174,7 +174,7 @@ assignments = {
       "title": "opt-in for Lec-002",
       "course": "MATH 54",
       "dueDate": "2023-02-08T18:00:00",
-      "link": "https://www.gradescope.com/courses/478168/assignments/2632861/submissions/new",
+      "link": "https://www.gradescope.com/courses/478168",
       "submitted": false
     },
     {
