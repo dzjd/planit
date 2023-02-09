@@ -185,5 +185,13 @@ assignments = {
       "submitted": false
     }
   ],
-  "Math 54": []
+  "Math 54": [
+    {
+      "title": "HW1, 2/12",
+      "course": "Math 54",
+      "dueDate": "2023-02-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/510193",
+      "submitted": false
+    }
+  ]
 };
