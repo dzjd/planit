@@ -92,6 +92,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Vitamin 4",
+      "course": "CS 70",
+      "dueDate": "2023-02-18T16:00:00",
+      "link": "https://www.gradescope.com/courses/494477/assignments/2641477/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Homework 3",
       "course": "CS 70",
       "dueDate": "2023-02-11T16:00:00",
@@ -192,6 +199,48 @@ assignments = {
       "dueDate": "2023-02-12T23:59:00",
       "link": "https://www.gradescope.com/courses/510193/assignments/2652470/submissions/161399706",
       "submitted": true
+    },
+    {
+      "title": "HW2, 2/19",
+      "course": "Math 54",
+      "dueDate": "2023-02-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/510193",
+      "submitted": false
+    },
+    {
+      "title": "HW3, 2/26",
+      "course": "Math 54",
+      "dueDate": "2023-02-26T23:59:00",
+      "link": "https://www.gradescope.com/courses/510193",
+      "submitted": false
+    },
+    {
+      "title": "HW4, 3/5",
+      "course": "Math 54",
+      "dueDate": "2023-03-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/510193",
+      "submitted": false
+    },
+    {
+      "title": "HW5, 3/12",
+      "course": "Math 54",
+      "dueDate": "2023-03-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/510193",
+      "submitted": false
+    },
+    {
+      "title": "HW6, 3/19",
+      "course": "Math 54",
+      "dueDate": "2023-03-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/510193",
+      "submitted": false
+    },
+    {
+      "title": "HW7, 4/2",
+      "course": "Math 54",
+      "dueDate": "2023-04-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/510193",
+      "submitted": false
     }
   ]
 };
