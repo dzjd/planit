@@ -241,6 +241,34 @@ assignments = {
       "dueDate": "2023-04-02T23:59:00",
       "link": "https://www.gradescope.com/courses/510193",
       "submitted": false
+    },
+    {
+      "title": "HW8, 4/9",
+      "course": "Math 54",
+      "dueDate": "2023-04-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/510193",
+      "submitted": false
+    },
+    {
+      "title": "HW9, 4/16",
+      "course": "Math 54",
+      "dueDate": "2023-04-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/510193",
+      "submitted": false
+    },
+    {
+      "title": "HW10, 4/23",
+      "course": "Math 54",
+      "dueDate": "2023-04-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/510193",
+      "submitted": false
+    },
+    {
+      "title": "HW11, 4/30",
+      "course": "Math 54",
+      "dueDate": "2023-04-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/510193",
+      "submitted": false
     }
   ]
 };
