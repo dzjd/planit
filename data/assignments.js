@@ -139,6 +139,13 @@ assignments = {
       "dueDate": "2023-02-16T12:30:00",
       "link": "https://www.gradescope.com/courses/494477/assignments/2668019/submissions/162419630",
       "submitted": true
+    },
+    {
+      "title": "Mini-Vitamin 5A",
+      "course": "CS 70",
+      "dueDate": "2023-02-14T12:30:00",
+      "link": "https://www.gradescope.com/courses/494477",
+      "submitted": false
     }
   ],
   "MATH 54": [
