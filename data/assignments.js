@@ -130,8 +130,8 @@ assignments = {
       "title": "Homework 4",
       "course": "CS 70",
       "dueDate": "2023-02-18T16:00:00",
-      "link": "https://www.gradescope.com/courses/494477",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/494477/assignments/2665839/submissions/163024632",
+      "submitted": true
     },
     {
       "title": "Mini-Vitamin 4B",
