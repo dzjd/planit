@@ -102,8 +102,8 @@ assignments = {
       "title": "Vitamin 5",
       "course": "CS 70",
       "dueDate": "2023-02-25T16:00:00",
-      "link": "https://www.gradescope.com/courses/494477/assignments/2641494/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/494477/assignments/2641494/submissions/163705720",
+      "submitted": true
     },
     {
       "title": "Homework 3",
