@@ -165,8 +165,8 @@ assignments = {
       "title": "Homework 5",
       "course": "CS 70",
       "dueDate": "2023-02-25T16:00:00",
-      "link": "https://www.gradescope.com/courses/494477",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/494477/assignments/2696242/submissions/164755056",
+      "submitted": true
     }
   ],
   "MATH 54": [
