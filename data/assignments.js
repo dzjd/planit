@@ -176,6 +176,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Mini-Vitamin 6A",
+      "course": "CS 70",
+      "dueDate": "2023-02-28T12:30:00",
+      "link": "https://www.gradescope.com/courses/494477/assignments/2702321/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Homework 6",
       "course": "CS 70",
       "dueDate": "2023-03-04T16:00:00",
