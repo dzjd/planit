@@ -347,5 +347,6 @@ assignments = {
       "link": "https://www.gradescope.com/courses/510193",
       "submitted": false
     }
-  ]
+  ],
+  "Math 54 section 210/222": []
 };
