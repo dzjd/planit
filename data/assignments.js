@@ -193,8 +193,8 @@ assignments = {
       "title": "Mini-Vitamin 6B",
       "course": "CS 70",
       "dueDate": "2023-03-02T12:30:00",
-      "link": "https://www.gradescope.com/courses/494477/assignments/2711652/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/494477/assignments/2711652/submissions/165932028",
+      "submitted": true
     }
   ],
   "MATH 54": [
