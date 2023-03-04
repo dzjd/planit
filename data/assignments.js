@@ -116,8 +116,8 @@ assignments = {
       "title": "Vitamin 6",
       "course": "CS 70",
       "dueDate": "2023-03-04T16:00:00",
-      "link": "https://www.gradescope.com/courses/494477/assignments/2641508/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/494477/assignments/2641508/submissions/166519042",
+      "submitted": true
     },
     {
       "title": "Mini-Vitamin 3A",
