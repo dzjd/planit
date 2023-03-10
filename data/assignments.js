@@ -202,13 +202,6 @@ assignments = {
       "dueDate": "2023-03-02T12:30:00",
       "link": "https://www.gradescope.com/courses/494477/assignments/2711652/submissions/165932028",
       "submitted": true
-    },
-    {
-      "title": "Mini-Vitamin 7B",
-      "course": "CS 70",
-      "dueDate": "2023-06-14T12:30:00",
-      "link": "https://www.gradescope.com/courses/494477/assignments/2736224/submissions/new",
-      "submitted": false
     }
   ],
   "MATH 54": [
@@ -316,8 +309,8 @@ assignments = {
       "title": "HW5, 3/12",
       "course": "Math 54",
       "dueDate": "2023-03-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/510193",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/510193/assignments/2661901/submissions/167807153",
+      "submitted": true
     },
     {
       "title": "HW6, 3/19",
