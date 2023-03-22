@@ -251,6 +251,13 @@ assignments = {
       "dueDate": "2023-03-21T12:30:00",
       "link": "https://www.gradescope.com/courses/494477/assignments/2757824/submissions/169813166",
       "submitted": true
+    },
+    {
+      "title": "Mini-Vitamin 9B",
+      "course": "CS 70",
+      "dueDate": "2023-03-23T12:30:00",
+      "link": "https://www.gradescope.com/courses/494477/assignments/2762256/submissions/new",
+      "submitted": false
     }
   ],
   "MATH 54": [
