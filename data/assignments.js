@@ -151,8 +151,8 @@ assignments = {
       "title": "Vitamin 10",
       "course": "CS 70",
       "dueDate": "2023-04-08T16:00:00",
-      "link": "https://www.gradescope.com/courses/494477/assignments/2644516/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/494477/assignments/2644516/submissions/172612604",
+      "submitted": true
     },
     {
       "title": "Mini-Vitamin 3B",
@@ -284,8 +284,8 @@ assignments = {
       "title": "Mini-Vitamin 11A",
       "course": "CS 70",
       "dueDate": "2023-04-04T12:30:00",
-      "link": "https://www.gradescope.com/courses/494477/assignments/2792407/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/494477/assignments/2792407/submissions/172606356",
+      "submitted": true
     }
   ],
   "MATH 54": [
