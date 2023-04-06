@@ -293,6 +293,13 @@ assignments = {
       "dueDate": "2023-04-06T12:30:00",
       "link": "https://www.gradescope.com/courses/494477/assignments/2793185/submissions/172874674",
       "submitted": true
+    },
+    {
+      "title": "Homework 11",
+      "course": "CS 70",
+      "dueDate": "2023-04-08T16:00:00",
+      "link": "https://www.gradescope.com/courses/494477",
+      "submitted": false
     }
   ],
   "MATH 54": [
