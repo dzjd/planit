@@ -340,8 +340,8 @@ assignments = {
       "title": "Mini-Vitamin 13B",
       "course": "CS 70",
       "dueDate": "2023-04-20T12:30:00",
-      "link": "https://www.gradescope.com/courses/494477/assignments/2835493/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/494477/assignments/2835493/submissions/176119674",
+      "submitted": true
     }
   ],
   "MATH 54": [
