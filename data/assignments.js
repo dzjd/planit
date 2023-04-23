@@ -498,8 +498,8 @@ assignments = {
       "title": "HW10, 4/23",
       "course": "Math 54",
       "dueDate": "2023-04-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/510193",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/510193/assignments/2661970/submissions/176750657",
+      "submitted": true
     },
     {
       "title": "HW11, 4/30",
