@@ -361,8 +361,8 @@ assignments = {
       "title": "Mini-Vitamin 14A",
       "course": "CS 70",
       "dueDate": "2023-04-25T15:00:00",
-      "link": "https://www.gradescope.com/courses/494477/assignments/2847746/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/494477/assignments/2847746/submissions/177015552",
+      "submitted": true
     }
   ],
   "MATH 54": [
