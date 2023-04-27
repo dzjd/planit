@@ -172,8 +172,8 @@ assignments = {
       "title": "Vitamin 14",
       "course": "CS 70",
       "dueDate": "2023-04-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/494477/assignments/2644554/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/494477/assignments/2644554/submissions/177772155",
+      "submitted": true
     },
     {
       "title": "Mini-Vitamin 3B",
