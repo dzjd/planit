@@ -32,8 +32,8 @@ assignments = {
       "title": "Project 2A",
       "course": "CS 61C",
       "dueDate": "2023-07-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/549220",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/549220/assignments/2964171/submissions/184432357",
+      "submitted": true
     },
     {
       "title": "Project 2B",
