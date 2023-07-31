@@ -97,6 +97,13 @@ assignments = {
       "dueDate": "2023-07-27T23:59:00",
       "link": "https://www.gradescope.com/courses/549220/assignments/2986592/submissions/185396950",
       "submitted": true
+    },
+    {
+      "title": "Lab 9",
+      "course": "CS 61C",
+      "dueDate": "2023-08-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/549220",
+      "submitted": false
     }
   ]
 };
