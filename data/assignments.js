@@ -30,5 +30,20 @@ assignments = {
       "submitted": true
     }
   ],
-  "CS188": []
+  "CS188": [
+    {
+      "title": "[Ungraded] Homework 0",
+      "course": "CS188",
+      "dueDate": "2023-08-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/572452",
+      "submitted": false
+    },
+    {
+      "title": "[Ungraded] Project 0",
+      "course": "CS188",
+      "dueDate": "2023-08-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/572452",
+      "submitted": false
+    }
+  ]
 };
