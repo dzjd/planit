@@ -19,15 +19,15 @@ assignments = {
       "title": "[GRADED] Vitamin 1: SQL",
       "course": "CS 186",
       "dueDate": "2023-08-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/580455/assignments/3156804/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/580455/assignments/3156804/submissions/188164233",
+      "submitted": true
     },
     {
       "title": "[GRADED] Pre-Semester Quiz",
       "course": "CS 186",
       "dueDate": "2023-08-30T20:00:00",
-      "link": "https://www.gradescope.com/courses/580455/assignments/3156859/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/580455/assignments/3156859/submissions/188156077",
+      "submitted": true
     }
   ],
   "CS188": []
