@@ -36,6 +36,13 @@ assignments = {
       "dueDate": "2023-08-30T23:59:00",
       "link": "https://www.gradescope.com/courses/580455/assignments/3156859/submissions/188156077",
       "submitted": true
+    },
+    {
+      "title": "[GRADED] Project 1",
+      "course": "CS 186",
+      "dueDate": "2023-09-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/580455",
+      "submitted": false
     }
   ],
   "CS188": [
