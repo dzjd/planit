@@ -17,7 +17,7 @@ assignments = {
     {
       "title": "Project 0 Written",
       "course": "CS 162",
-      "dueDate": "2023-09-07T14:47:00",
+      "dueDate": "2023-09-11T23:59:00",
       "link": "https://www.gradescope.com/courses/565424/assignments/3254711/submissions/new",
       "submitted": false
     }
