@@ -20,6 +20,13 @@ assignments = {
       "dueDate": "2023-09-11T23:59:00",
       "link": "https://www.gradescope.com/courses/565424/assignments/3254711/submissions/190471651",
       "submitted": true
+    },
+    {
+      "title": "Project 1 Design Doc",
+      "course": "CS 162",
+      "dueDate": "2023-09-29T16:33:00",
+      "link": "https://www.gradescope.com/courses/565424",
+      "submitted": false
     }
   ],
   "CS 186": [
