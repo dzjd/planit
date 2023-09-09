@@ -11,8 +11,8 @@ assignments = {
       "title": "Homework 1 Written",
       "course": "CS 162",
       "dueDate": "2023-09-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/565424/assignments/3244598/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/565424/assignments/3244598/submissions/191641913",
+      "submitted": true
     },
     {
       "title": "Project 0 Written",
