@@ -69,8 +69,8 @@ assignments = {
       "title": "[GRADED] Vitamin 3: B+ Trees",
       "course": "CS 186",
       "dueDate": "2023-09-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/580455/assignments/3156863/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/580455/assignments/3156863/submissions/192919150",
+      "submitted": true
     },
     {
       "title": "[GRADED] Project 1",
@@ -141,8 +141,8 @@ assignments = {
       "title": "Homework 2 (Part 1)",
       "course": "CS188",
       "dueDate": "2023-09-19T23:59:00",
-      "link": "https://www.gradescope.com/courses/572452/assignments/3312863/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/572452/assignments/3312863/submissions/192917175",
+      "submitted": true
     },
     {
       "title": "Homework 2 (Part 2)",
