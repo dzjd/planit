@@ -155,8 +155,8 @@ assignments = {
       "title": "Homework 2 (Part 2)",
       "course": "CS188",
       "dueDate": "2023-09-19T23:59:00",
-      "link": "https://www.gradescope.com/courses/572452/assignments/3312970/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/572452/assignments/3312970/submissions/193657361",
+      "submitted": true
     }
   ]
 };
