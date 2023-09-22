@@ -94,13 +94,6 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "[GRADED] Project 4 Part 2",
-      "course": "CS 186",
-      "dueDate": "2023-04-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/580455",
-      "submitted": false
-    },
-    {
       "title": "[PRACTICE] Vitamin 2: Disks, Buffers, Files",
       "course": "CS 186",
       "dueDate": "2023-12-31T23:59:00",
