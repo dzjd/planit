@@ -120,6 +120,13 @@ assignments = {
       "dueDate": "2023-10-09T23:59:00",
       "link": "https://www.gradescope.com/courses/580455",
       "submitted": false
+    },
+    {
+      "title": "[GRADED] Project 3 Part 2",
+      "course": "CS 186",
+      "dueDate": "2023-10-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/580455",
+      "submitted": false
     }
   ],
   "CS188": [
