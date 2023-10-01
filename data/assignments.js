@@ -76,8 +76,8 @@ assignments = {
       "title": "[GRADED] Vitamin 4: Buffer Management and Spatial Indexes",
       "course": "CS 186",
       "dueDate": "2023-10-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/580455/assignments/3156875/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/580455/assignments/3156875/submissions/198311036",
+      "submitted": true
     },
     {
       "title": "[GRADED] Project 1",
