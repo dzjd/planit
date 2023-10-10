@@ -160,8 +160,8 @@ assignments = {
       "title": "[PRACTICE] Vitamin 2: Disks, Buffers, Files",
       "course": "CS 186",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/580455/assignments/3363574/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/580455/assignments/3363574/submissions/201260337",
+      "submitted": true
     },
     {
       "title": "[PRACTICE] Vitamin 3: B+ Trees",
