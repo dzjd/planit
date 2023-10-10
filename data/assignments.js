@@ -41,6 +41,41 @@ assignments = {
       "dueDate": "2023-10-09T23:59:00",
       "link": "https://www.gradescope.com/courses/565424",
       "submitted": false
+    },
+    {
+      "title": "Project 2 Design Document",
+      "course": "CS 162",
+      "dueDate": "2023-03-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/565424",
+      "submitted": false
+    },
+    {
+      "title": "Project 1 Staff Solution Essay",
+      "course": "CS 162",
+      "dueDate": "2023-03-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/565424",
+      "submitted": false
+    },
+    {
+      "title": "Project 2 Report",
+      "course": "CS 162",
+      "dueDate": "2023-04-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/565424",
+      "submitted": false
+    },
+    {
+      "title": "Project 3 Design Document",
+      "course": "CS 162",
+      "dueDate": "2023-04-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/565424",
+      "submitted": false
+    },
+    {
+      "title": "Project 3 Report",
+      "course": "CS 162",
+      "dueDate": "2023-05-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/565424",
+      "submitted": false
     }
   ],
   "CS 186": [
@@ -154,6 +189,20 @@ assignments = {
       "course": "CS 186",
       "dueDate": "2023-10-18T23:59:00",
       "link": "https://www.gradescope.com/courses/580455",
+      "submitted": false
+    },
+    {
+      "title": "[PRACTICE] Vitamin 4: Buffer Management and Spatial Indexes",
+      "course": "CS 186",
+      "dueDate": "2023-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/580455/assignments/3499870/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[PRACTICE] Vitamin 5: Sorting and Hashing",
+      "course": "CS 186",
+      "dueDate": "2023-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/580455/assignments/3499872/submissions/new",
       "submitted": false
     }
   ],
