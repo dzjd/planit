@@ -39,27 +39,13 @@ assignments = {
       "title": "Project 1 Report",
       "course": "CS 162",
       "dueDate": "2023-10-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/565424",
-      "submitted": false
-    },
-    {
-      "title": "Project 2 Design Document",
-      "course": "CS 162",
-      "dueDate": "2023-03-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/565424",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/565424/assignments/3474214/submissions/201060653",
+      "submitted": true
     },
     {
       "title": "Project 1 Staff Solution Essay",
       "course": "CS 162",
       "dueDate": "2023-03-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/565424",
-      "submitted": false
-    },
-    {
-      "title": "Project 2 Report",
-      "course": "CS 162",
-      "dueDate": "2023-04-05T23:59:00",
       "link": "https://www.gradescope.com/courses/565424",
       "submitted": false
     },
