@@ -167,8 +167,8 @@ assignments = {
       "title": "[PRACTICE] Vitamin 3: B+ Trees",
       "course": "CS 186",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/580455/assignments/3363614/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/580455/assignments/3363614/submissions/201352716",
+      "submitted": true
     },
     {
       "title": "[GRADED] Project 3 Part 1",
