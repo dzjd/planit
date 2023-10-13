@@ -24,8 +24,8 @@ assignments = {
     {
       "title": "Homework 3 Written (C only)",
       "course": "CS 162",
-      "dueDate": "2023-10-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/565424/assignments/3294798/submissions/new",
+      "dueDate": "2023-10-13T12:20:00",
+      "link": "https://www.gradescope.com/courses/565424",
       "submitted": false
     },
     {
@@ -311,6 +311,13 @@ assignments = {
       "dueDate": "2023-10-10T23:59:00",
       "link": "https://www.gradescope.com/courses/572452/assignments/3466366/submissions/200468967",
       "submitted": true
+    },
+    {
+      "title": "Homework 5 (Part 2, Make-Up)",
+      "course": "CS188",
+      "dueDate": "2023-10-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/572452",
+      "submitted": false
     }
   ]
 };
