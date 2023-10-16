@@ -138,7 +138,7 @@ assignments = {
     {
       "title": "[GRADED] Vitamin 7: Query Optimization",
       "course": "CS 186",
-      "dueDate": "2023-10-18T23:59:00",
+      "dueDate": "2023-10-23T23:59:00",
       "link": "https://www.gradescope.com/courses/580455/assignments/3156902/submissions/new",
       "submitted": false
     },
