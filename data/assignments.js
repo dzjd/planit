@@ -50,6 +50,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Project 1 Staff Solution Essay",
+      "course": "CS 162",
+      "dueDate": "2023-10-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/565424",
+      "submitted": false
+    },
+    {
       "title": "Project 2 Report",
       "course": "CS 162",
       "dueDate": "2023-11-08T23:59:00",
