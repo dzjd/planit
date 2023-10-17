@@ -323,7 +323,7 @@ assignments = {
       "title": "Midterm (Online)",
       "course": "CS188",
       "dueDate": "2023-10-16T21:02:00",
-      "link": "https://www.gradescope.com/courses/572452/assignments/3500139/submissions/new",
+      "link": "https://www.gradescope.com/courses/572452",
       "submitted": false
     },
     {
