@@ -320,6 +320,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Midterm (Online)",
+      "course": "CS188",
+      "dueDate": "2023-10-16T21:02:00",
+      "link": "https://www.gradescope.com/courses/572452/assignments/3500139/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "[Ungraded] Online Exam Demo Answer Sheet",
       "course": "CS188",
       "dueDate": "2023-12-31T23:59:00",
