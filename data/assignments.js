@@ -339,6 +339,20 @@ assignments = {
       "dueDate": "2023-12-31T23:59:00",
       "link": "https://www.gradescope.com/courses/572452/assignments/3526269/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Homework 6 (Part 2)",
+      "course": "CS188",
+      "dueDate": "2023-10-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/572452/assignments/3541830/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Homework 6 (Part 1)",
+      "course": "CS188",
+      "dueDate": "2023-10-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/572452/assignments/3541874/submissions/new",
+      "submitted": false
     }
   ]
 };
