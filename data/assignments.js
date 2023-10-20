@@ -146,8 +146,8 @@ assignments = {
       "title": "[GRADED] Vitamin 7: Query Optimization",
       "course": "CS 186",
       "dueDate": "2023-10-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/580455/assignments/3156902/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/580455/assignments/3156902/submissions/204675458",
+      "submitted": true
     },
     {
       "title": "[GRADED] Project 1",
@@ -372,8 +372,8 @@ assignments = {
       "title": "Homework 6 (Part 1)",
       "course": "CS188",
       "dueDate": "2023-10-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/572452/assignments/3541874/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/572452/assignments/3541874/submissions/204675196",
+      "submitted": true
     }
   ]
 };
