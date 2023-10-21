@@ -46,8 +46,8 @@ assignments = {
       "title": "Project 2 Design Document",
       "course": "CS 162",
       "dueDate": "2023-10-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/565424",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/565424/assignments/3499875/submissions/204834370",
+      "submitted": true
     },
     {
       "title": "Project 1 Staff Solution Essay",
