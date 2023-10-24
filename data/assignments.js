@@ -239,6 +239,13 @@ assignments = {
       "dueDate": "2023-12-31T23:59:00",
       "link": "https://www.gradescope.com/courses/580455/assignments/3554897/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "[Extra Credit] Mid-Semester Feedback Survey",
+      "course": "CS 186",
+      "dueDate": "2023-10-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/580455/assignments/3573460/submissions/new",
+      "submitted": false
     }
   ],
   "CS188": [
