@@ -388,6 +388,13 @@ assignments = {
       "dueDate": "2023-10-24T23:59:00",
       "link": "https://www.gradescope.com/courses/572452/assignments/3541874/submissions/204675196",
       "submitted": true
+    },
+    {
+      "title": "Project 4",
+      "course": "CS188",
+      "dueDate": "2023-11-06T12:59:00",
+      "link": "https://www.gradescope.com/courses/572452",
+      "submitted": false
     }
   ]
 };
