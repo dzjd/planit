@@ -357,7 +357,7 @@ assignments = {
     {
       "title": "Homework 5 (Part 2, Make-Up)",
       "course": "CS188",
-      "dueDate": "2023-10-24T23:59:00",
+      "dueDate": "2023-10-27T23:59:00",
       "link": "https://www.gradescope.com/courses/572452",
       "submitted": false
     },
