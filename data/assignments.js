@@ -399,15 +399,15 @@ assignments = {
     {
       "title": "Homework 7 (Part 1)",
       "course": "CS188",
-      "dueDate": "2023-04-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/572452",
+      "dueDate": "2023-10-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/572452/assignments/3582873/submissions/new",
       "submitted": false
     },
     {
       "title": "Homework 7 (Part 2)",
       "course": "CS188",
-      "dueDate": "2023-04-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/572452",
+      "dueDate": "2023-10-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/572452/assignments/3582896/submissions/new",
       "submitted": false
     }
   ]
