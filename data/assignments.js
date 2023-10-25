@@ -402,6 +402,13 @@ assignments = {
       "dueDate": "2023-04-14T23:59:00",
       "link": "https://www.gradescope.com/courses/572452",
       "submitted": false
+    },
+    {
+      "title": "Homework 7 (Part 2)",
+      "course": "CS188",
+      "dueDate": "2023-04-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/572452",
+      "submitted": false
     }
   ]
 };
