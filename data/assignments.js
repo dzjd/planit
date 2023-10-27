@@ -237,8 +237,8 @@ assignments = {
       "title": "Project 4 LockType Sanity Check (Optional)",
       "course": "CS 186",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/580455/assignments/3554897/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/580455/assignments/3554897/submissions/206967159",
+      "submitted": true
     },
     {
       "title": "[Extra Credit] Mid-Semester Feedback Survey",
