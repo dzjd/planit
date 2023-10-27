@@ -223,8 +223,8 @@ assignments = {
       "title": "[GRADED] Project 4 Part 1",
       "course": "CS 186",
       "dueDate": "2023-10-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/580455",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/580455/assignments/3554725/submissions/207055724",
+      "submitted": true
     },
     {
       "title": "[GRADED] Project 4 Part 2",
@@ -244,8 +244,8 @@ assignments = {
       "title": "[Extra Credit] Mid-Semester Feedback Survey",
       "course": "CS 186",
       "dueDate": "2023-10-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/580455/assignments/3573460/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/580455/assignments/3573460/submissions/207057680",
+      "submitted": true
     }
   ],
   "CS188": [
