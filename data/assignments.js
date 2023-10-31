@@ -157,7 +157,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "[GRADED] Vitamin 10: Recovery",
+      "title": "[GRADED] Vitamin 9: Recovery",
       "course": "CS 186",
       "dueDate": "2023-11-06T23:59:00",
       "link": "https://www.gradescope.com/courses/580455/assignments/3156918/submissions/new",
