@@ -25,7 +25,7 @@ assignments = {
       "title": "Homework 3 Written (C only)",
       "course": "CS 162",
       "dueDate": "2023-10-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/565424/assignments/3294798/submissions/new",
+      "link": "https://www.gradescope.com/courses/565424",
       "submitted": false
     },
     {
