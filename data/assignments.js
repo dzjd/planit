@@ -406,7 +406,7 @@ assignments = {
     {
       "title": "Project 4",
       "course": "CS188",
-      "dueDate": "2023-11-06T12:59:00",
+      "dueDate": "2023-11-10T12:59:00",
       "link": "https://www.gradescope.com/courses/572452/assignments/3577044/submissions/208511093",
       "submitted": true
     },
