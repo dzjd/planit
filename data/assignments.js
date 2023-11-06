@@ -160,8 +160,8 @@ assignments = {
       "title": "[GRADED] Vitamin 9: Recovery",
       "course": "CS 186",
       "dueDate": "2023-11-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/580455/assignments/3156918/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/580455/assignments/3156918/submissions/210023510",
+      "submitted": true
     },
     {
       "title": "[GRADED] Vitamin 10: Parallel Query Processing",
@@ -435,8 +435,8 @@ assignments = {
       "title": "Homework 8 (Part 1)",
       "course": "CS188",
       "dueDate": "2023-11-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/572452/assignments/3615864/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/572452/assignments/3615864/submissions/210031839",
+      "submitted": true
     },
     {
       "title": "Homework 8 (Part 2)",
