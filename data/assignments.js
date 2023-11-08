@@ -267,6 +267,34 @@ assignments = {
       "dueDate": "2023-10-30T23:59:00",
       "link": "https://www.gradescope.com/courses/580455/assignments/3573460/submissions/207057680",
       "submitted": true
+    },
+    {
+      "title": "[PRACTICE] Vitamin 6: Iterators, Joins, and Relational Algebra",
+      "course": "CS 186",
+      "dueDate": "2023-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/580455/assignments/3654569/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[PRACTICE] Vitamin 7: Query Optimization",
+      "course": "CS 186",
+      "dueDate": "2023-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/580455/assignments/3654571/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[PRACTICE] Vitamin 8: Transactions and Concurrency",
+      "course": "CS 186",
+      "dueDate": "2023-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/580455/assignments/3654572/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[PRACTICE] Vitamin 9: Recovery",
+      "course": "CS 186",
+      "dueDate": "2023-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/580455/assignments/3654575/submissions/new",
+      "submitted": false
     }
   ],
   "CS188": [
