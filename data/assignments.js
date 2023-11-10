@@ -66,14 +66,14 @@ assignments = {
     {
       "title": "Project 3 Design Document",
       "course": "CS 162",
-      "dueDate": "2023-04-17T23:59:00",
+      "dueDate": "2023-11-17T23:59:00",
       "link": "https://www.gradescope.com/courses/565424",
       "submitted": false
     },
     {
       "title": "Project 3 Report",
       "course": "CS 162",
-      "dueDate": "2023-05-04T23:59:00",
+      "dueDate": "2023-12-06T23:59:00",
       "link": "https://www.gradescope.com/courses/565424",
       "submitted": false
     }
