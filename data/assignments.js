@@ -251,8 +251,8 @@ assignments = {
       "title": "[GRADED] Project 4 Part 2",
       "course": "CS 186",
       "dueDate": "2023-11-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/580455",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/580455/assignments/3554729/submissions/211387134",
+      "submitted": true
     },
     {
       "title": "Project 4 LockType Sanity Check (Optional)",
