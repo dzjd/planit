@@ -479,6 +479,27 @@ assignments = {
       "dueDate": "2023-11-07T23:59:00",
       "link": "https://www.gradescope.com/courses/572452/assignments/3615867/submissions/210361611",
       "submitted": true
+    },
+    {
+      "title": "Homework 9 (Part 1)",
+      "course": "CS188",
+      "dueDate": "2023-11-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/572452/assignments/3668651/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Homework 9 (Part 2)",
+      "course": "CS188",
+      "dueDate": "2023-11-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/572452/assignments/3668654/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Project 5",
+      "course": "CS188",
+      "dueDate": "2023-11-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/572452",
+      "submitted": false
     }
   ]
 };
