@@ -309,6 +309,13 @@ assignments = {
       "dueDate": "2023-11-26T23:59:00",
       "link": "https://www.gradescope.com/courses/580455",
       "submitted": false
+    },
+    {
+      "title": "[GRADED] Vitamin 12: Consensus",
+      "course": "CS 186",
+      "dueDate": "2023-11-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/580455/assignments/3706291/submissions/new",
+      "submitted": false
     }
   ],
   "CS188": [
