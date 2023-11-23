@@ -307,8 +307,8 @@ assignments = {
       "title": "[GRADED] Project 5",
       "course": "CS 186",
       "dueDate": "2023-11-26T23:59:00",
-      "link": "https://www.gradescope.com/courses/580455",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/580455/assignments/3666230/submissions/215126070",
+      "submitted": true
     },
     {
       "title": "[GRADED] Vitamin 12: Consensus",
