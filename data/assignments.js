@@ -512,8 +512,8 @@ assignments = {
       "title": "Project 5",
       "course": "CS188",
       "dueDate": "2023-11-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/572452",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/572452/assignments/3668932/submissions/215202482",
+      "submitted": true
     },
     {
       "title": "Homework 10 (Part 1)",
