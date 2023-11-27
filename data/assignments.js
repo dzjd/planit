@@ -178,6 +178,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "[GRADED] Vitamin 13: NoSQL",
+      "course": "CS 186",
+      "dueDate": "2023-12-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/580455/assignments/3156921/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "[GRADED] Project 1",
       "course": "CS 186",
       "dueDate": "2023-09-08T23:59:00",
