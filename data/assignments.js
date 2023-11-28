@@ -330,6 +330,13 @@ assignments = {
       "dueDate": "2023-12-08T23:59:00",
       "link": "https://www.gradescope.com/courses/580455",
       "submitted": false
+    },
+    {
+      "title": "[Extra Credit] Course Evaluation",
+      "course": "CS 186",
+      "dueDate": "2023-12-11T00:00:00",
+      "link": "https://www.gradescope.com/courses/580455/assignments/3730553/submissions/new",
+      "submitted": false
     }
   ],
   "CS188": [
