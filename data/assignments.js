@@ -341,7 +341,7 @@ assignments = {
     {
       "title": "Grade Report",
       "course": "CS 186",
-      "dueDate": "2023-06-01T16:00:00",
+      "dueDate": "2023-12-31T23:59:00",
       "link": "https://www.gradescope.com/courses/580455",
       "submitted": false
     }
