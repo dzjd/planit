@@ -328,8 +328,8 @@ assignments = {
       "title": "[GRADED] Project 6",
       "course": "CS 186",
       "dueDate": "2023-12-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/580455",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/580455/assignments/3724696/submissions/216872973",
+      "submitted": true
     },
     {
       "title": "[Extra Credit] Course Evaluation",
