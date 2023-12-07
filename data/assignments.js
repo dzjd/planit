@@ -344,6 +344,34 @@ assignments = {
       "dueDate": "2023-12-31T23:59:00",
       "link": "https://www.gradescope.com/courses/580455/assignments/3733391/submissions/216959994",
       "submitted": true
+    },
+    {
+      "title": "[PRACTICE] Vitamin 10: Parallel Query Processing",
+      "course": "CS 186",
+      "dueDate": "2023-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/580455/assignments/3775059/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[PRACTICE] Vitamin 11: Distributed Transactions",
+      "course": "CS 186",
+      "dueDate": "2023-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/580455/assignments/3775060/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[PRACTICE] Vitamin 12: Consensus",
+      "course": "CS 186",
+      "dueDate": "2023-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/580455/assignments/3775062/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[PRACTICE] Vitamin 13: NoSQL",
+      "course": "CS 186",
+      "dueDate": "2023-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/580455/assignments/3775063/submissions/new",
+      "submitted": false
     }
   ],
   "CS188": [
