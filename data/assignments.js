@@ -556,6 +556,20 @@ assignments = {
       "dueDate": "2023-12-01T23:59:00",
       "link": "https://www.gradescope.com/courses/572452/assignments/3702138/submissions/216857692",
       "submitted": true
+    },
+    {
+      "title": "Discussion Attendance",
+      "course": "CS188",
+      "dueDate": "2023-12-15T23:59:00",
+      "link": "https://www.gradescope.com/courses/572452",
+      "submitted": false
+    },
+    {
+      "title": "Course Evals",
+      "course": "CS188",
+      "dueDate": "2023-12-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/572452",
+      "submitted": false
     }
   ]
 };
