@@ -603,7 +603,7 @@ assignments = {
       "title": "Final Exam (Online)",
       "course": "CS188",
       "dueDate": "2023-12-14T14:30:00",
-      "link": "https://www.gradescope.com/courses/572452/assignments/3803458/submissions/new",
+      "link": "https://www.gradescope.com/courses/572452",
       "submitted": false
     }
   ]
