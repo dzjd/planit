@@ -598,6 +598,13 @@ assignments = {
       "dueDate": "2023-12-15T23:59:00",
       "link": "https://www.gradescope.com/courses/572452/assignments/3769964/submissions/218246362",
       "submitted": true
+    },
+    {
+      "title": "Final Exam (Online)",
+      "course": "CS188",
+      "dueDate": "2023-12-14T14:30:00",
+      "link": "https://www.gradescope.com/courses/572452/assignments/3803458/submissions/new",
+      "submitted": false
     }
   ]
 };
