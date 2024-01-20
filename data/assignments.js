@@ -6,8 +6,8 @@ assignments = {
       "title": "Syllabus Quiz",
       "course": "Data 100",
       "dueDate": "2024-02-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886/assignments/3932755/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696886/assignments/3932755/submissions/223409616",
+      "submitted": true
     },
     {
       "title": "Lab 01",
@@ -27,8 +27,8 @@ assignments = {
       "title": "Homework 1B",
       "course": "Data 100",
       "dueDate": "2024-01-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696886/assignments/3932861/submissions/223409329",
+      "submitted": true
     },
     {
       "title": "Homework 1A Written",
