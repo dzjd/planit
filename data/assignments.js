@@ -13,6 +13,13 @@ assignments = {
       "dueDate": "2024-09-29T23:59:00",
       "link": "https://www.gradescope.com/courses/708067",
       "submitted": false
+    },
+    {
+      "title": "Project 1 Autograder",
+      "course": "CS 161",
+      "dueDate": "2024-09-29T23:59:00",
+      "link": "https://www.gradescope.com/courses/708067",
+      "submitted": false
     }
   ],
   "CS 170": [],
