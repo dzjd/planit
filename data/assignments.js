@@ -29,7 +29,15 @@ assignments = {
       "submitted": true
     }
   ],
-  "CS 170": [],
+  "CS 170": [
+    {
+      "title": "Homework 1",
+      "course": "CS 170",
+      "dueDate": "2024-01-29T22:00:00",
+      "link": "https://www.gradescope.com/courses/701957",
+      "submitted": false
+    }
+  ],
   "Data 100": [
     {
       "title": "Syllabus Quiz",
