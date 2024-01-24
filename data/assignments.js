@@ -34,8 +34,8 @@ assignments = {
       "title": "Homework 1",
       "course": "CS 170",
       "dueDate": "2024-01-29T22:00:00",
-      "link": "https://www.gradescope.com/courses/701957",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701957/assignments/3982085/submissions/224152056",
+      "submitted": true
     }
   ],
   "Data 100": [
@@ -72,6 +72,13 @@ assignments = {
       "course": "Data 100",
       "dueDate": "2024-01-25T23:59:00",
       "link": "https://www.gradescope.com/courses/696886/assignments/3958118/submissions/223395869",
+      "submitted": true
+    },
+    {
+      "title": "Lecture Attendance",
+      "course": "Data 100",
+      "dueDate": "2024-05-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/696886/assignments/3972426/submissions/224121165",
       "submitted": true
     }
   ]
