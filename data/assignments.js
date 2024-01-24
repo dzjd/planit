@@ -73,13 +73,6 @@ assignments = {
       "dueDate": "2024-01-25T23:59:00",
       "link": "https://www.gradescope.com/courses/696886/assignments/3958118/submissions/223395869",
       "submitted": true
-    },
-    {
-      "title": "Lecture Attendance",
-      "course": "Data 100",
-      "dueDate": "2024-05-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886/assignments/3972426/submissions/224121165",
-      "submitted": true
     }
   ]
 };
