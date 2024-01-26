@@ -73,6 +73,27 @@ assignments = {
       "dueDate": "2024-01-25T23:59:00",
       "link": "https://www.gradescope.com/courses/696886/assignments/3958118/submissions/223395869",
       "submitted": true
+    },
+    {
+      "title": "Lab 02A",
+      "course": "Data 100",
+      "dueDate": "2024-01-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
+    },
+    {
+      "title": "Homework 2A Coding",
+      "course": "Data 100",
+      "dueDate": "2024-02-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
+    },
+    {
+      "title": "Homework 2A Written",
+      "course": "Data 100",
+      "dueDate": "2024-02-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
     }
   ]
 };
