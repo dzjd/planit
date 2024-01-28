@@ -4,8 +4,8 @@ assignments = {
       "title": "Project 1 Checkpoint",
       "course": "CS 161",
       "dueDate": "2024-02-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/708067",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708067/assignments/3970676/submissions/225316350",
+      "submitted": true
     },
     {
       "title": "Project 1 Writeup",
