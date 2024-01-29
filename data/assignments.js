@@ -32,8 +32,8 @@ assignments = {
       "title": "Homework 2",
       "course": "CS 161",
       "dueDate": "2024-02-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/708067/assignments/4014060/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708067/assignments/4014060/submissions/225553773",
+      "submitted": true
     }
   ],
   "CS 170": [
