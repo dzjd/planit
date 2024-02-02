@@ -122,6 +122,27 @@ assignments = {
       "dueDate": "2024-02-01T23:59:00",
       "link": "https://www.gradescope.com/courses/696886/assignments/3986223/submissions/225200397",
       "submitted": true
+    },
+    {
+      "title": "Homework 2B Coding",
+      "course": "Data 100",
+      "dueDate": "2024-02-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
+    },
+    {
+      "title": "Homework 2B Written",
+      "course": "Data 100",
+      "dueDate": "2024-02-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
+    },
+    {
+      "title": "Lab 02B",
+      "course": "Data 100",
+      "dueDate": "2024-02-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
     }
   ]
 };
