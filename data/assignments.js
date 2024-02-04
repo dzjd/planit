@@ -48,8 +48,8 @@ assignments = {
       "title": "Homework 2 Written Portion",
       "course": "CS 170",
       "dueDate": "2024-02-05T22:00:00",
-      "link": "https://www.gradescope.com/courses/701957",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701957/assignments/4029610/submissions/227375546",
+      "submitted": true
     },
     {
       "title": "Homework 2 Coding Portion",
@@ -141,8 +141,8 @@ assignments = {
       "title": "Lab 02B",
       "course": "Data 100",
       "dueDate": "2024-02-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696886/assignments/4019921/submissions/227377067",
+      "submitted": true
     }
   ]
 };
