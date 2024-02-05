@@ -11,15 +11,15 @@ assignments = {
       "title": "Project 1 Writeup",
       "course": "CS 161",
       "dueDate": "2024-02-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/708067",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708067/assignments/3970677/submissions/227807941",
+      "submitted": true
     },
     {
       "title": "Project 1 Autograder",
       "course": "CS 161",
       "dueDate": "2024-02-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/708067",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708067/assignments/3970918/submissions/227806446",
+      "submitted": true
     },
     {
       "title": "Homework 1",
@@ -99,7 +99,7 @@ assignments = {
       "title": "Lecture Attendance",
       "course": "Data 100",
       "dueDate": "2024-05-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886/assignments/3972426/submissions/227754263",
+      "link": "https://www.gradescope.com/courses/696886/assignments/3972426/submissions/227798686",
       "submitted": true
     },
     {
