@@ -39,8 +39,8 @@ assignments = {
       "title": "Homework 3",
       "course": "CS 161",
       "dueDate": "2024-02-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/708067/assignments/4084341/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708067/assignments/4084341/submissions/229680109",
+      "submitted": true
     }
   ],
   "CS 170": [
@@ -169,15 +169,15 @@ assignments = {
       "title": "Homework 3 Coding",
       "course": "Data 100",
       "dueDate": "2024-02-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696886/assignments/4049531/submissions/229679875",
+      "submitted": true
     },
     {
       "title": "Homework 3 Written",
       "course": "Data 100",
       "dueDate": "2024-02-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696886/assignments/4049536/submissions/229680351",
+      "submitted": true
     },
     {
       "title": "Lab 03",
