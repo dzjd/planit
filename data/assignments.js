@@ -41,6 +41,13 @@ assignments = {
       "dueDate": "2024-02-16T23:59:00",
       "link": "https://www.gradescope.com/courses/708067/assignments/4084341/submissions/229680109",
       "submitted": true
+    },
+    {
+      "title": "Project 2 Spec Quiz",
+      "course": "CS 161",
+      "dueDate": "2024-02-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/708067/assignments/4098233/submissions/new",
+      "submitted": false
     }
   ],
   "CS 170": [
