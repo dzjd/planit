@@ -220,6 +220,27 @@ assignments = {
       "dueDate": "2024-05-10T23:59:00",
       "link": "https://www.gradescope.com/courses/696886/assignments/4057763/submissions/230221434",
       "submitted": true
+    },
+    {
+      "title": "Homework 4 Coding",
+      "course": "Data 100",
+      "dueDate": "2024-02-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
+    },
+    {
+      "title": "Homework 4 Written",
+      "course": "Data 100",
+      "dueDate": "2024-02-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
+    },
+    {
+      "title": "Lab 04",
+      "course": "Data 100",
+      "dueDate": "2024-02-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
     }
   ]
 };
