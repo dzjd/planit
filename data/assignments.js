@@ -50,7 +50,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Project 2 Checkpoint",
+      "title": "Project 2 Design Doc Checkpoint",
       "course": "CS 161",
       "dueDate": "2024-02-23T23:59:00",
       "link": "https://www.gradescope.com/courses/708067",
