@@ -43,6 +43,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Project 2 Coding Checkpoint",
+      "course": "CS 161",
+      "dueDate": "2024-03-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/708067",
+      "submitted": false
+    },
+    {
       "title": "Project 2 Spec Quiz",
       "course": "CS 161",
       "dueDate": "2024-02-16T23:59:00",
@@ -162,7 +169,7 @@ assignments = {
       "title": "Lecture Attendance",
       "course": "Data 100",
       "dueDate": "2024-05-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886/assignments/3972426/submissions/232101411",
+      "link": "https://www.gradescope.com/courses/696886/assignments/3972426/submissions/233250382",
       "submitted": true
     },
     {
