@@ -264,6 +264,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Homework 5",
+      "course": "Data 100",
+      "dueDate": "2024-02-29T23:59:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
+    },
+    {
       "title": "Grade Report",
       "course": "Data 100",
       "dueDate": "2024-05-18T00:00:00",
