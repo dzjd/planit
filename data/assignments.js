@@ -60,8 +60,8 @@ assignments = {
       "title": "Homework 4",
       "course": "CS 161",
       "dueDate": "2024-03-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/708067/assignments/4123221/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708067/assignments/4123221/submissions/234162050",
+      "submitted": true
     },
     {
       "title": "[Ungraded] Online Exam Demo Answer Sheet",
@@ -260,8 +260,8 @@ assignments = {
       "title": "Lab 05",
       "course": "Data 100",
       "dueDate": "2024-02-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696886/assignments/4117902/submissions/234159476",
+      "submitted": true
     },
     {
       "title": "Homework 5",
