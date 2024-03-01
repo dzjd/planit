@@ -36,6 +36,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Midterm (online)",
+      "course": "CS 161",
+      "dueDate": "2024-02-29T21:02:00",
+      "link": "https://www.gradescope.com/courses/708067/assignments/4050762/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Homework 3",
       "course": "CS 161",
       "dueDate": "2024-02-16T23:59:00",
