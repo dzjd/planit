@@ -139,8 +139,8 @@ assignments = {
       "title": "Homework 6 Coding Portion",
       "course": "CS 170",
       "dueDate": "2024-03-04T22:00:00",
-      "link": "https://www.gradescope.com/courses/701957",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701957/assignments/4165642/submissions/236054568",
+      "submitted": true
     }
   ],
   "Data 100": [
