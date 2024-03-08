@@ -343,7 +343,7 @@ assignments = {
     {
       "title": "Midterm (Online)",
       "course": "Data 100",
-      "dueDate": "2024-03-07T21:00:00",
+      "dueDate": "2024-03-07T21:10:00",
       "link": "https://www.gradescope.com/courses/696886",
       "submitted": false
     }
