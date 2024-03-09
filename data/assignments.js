@@ -358,8 +358,8 @@ assignments = {
       "title": "Lab 07",
       "course": "Data 100",
       "dueDate": "2024-03-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696886/assignments/4187913/submissions/237966766",
+      "submitted": true
     },
     {
       "title": "Midterm (Online)",
