@@ -53,8 +53,8 @@ assignments = {
       "title": "Project 2 Coding Checkpoint",
       "course": "CS 161",
       "dueDate": "2024-03-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/708067",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708067/assignments/4084569/submissions/238826914",
+      "submitted": true
     },
     {
       "title": "Project 2 Spec Quiz",
