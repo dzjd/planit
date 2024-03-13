@@ -88,8 +88,8 @@ assignments = {
       "title": "Homework 5",
       "course": "CS 161",
       "dueDate": "2024-03-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/708067/assignments/4192957/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708067/assignments/4192957/submissions/238609290",
+      "submitted": true
     },
     {
       "title": "[Optional] Homework 5 Lab Autograder",
