@@ -195,8 +195,8 @@ assignments = {
       "title": "Homework 8 Coding Portion",
       "course": "CS 170",
       "dueDate": "2024-03-18T22:00:00",
-      "link": "https://www.gradescope.com/courses/701957",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701957/assignments/4226860/submissions/239521757",
+      "submitted": true
     },
     {
       "title": "Homework 8 Written Portion",
