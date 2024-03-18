@@ -246,7 +246,7 @@ assignments = {
       "title": "Lecture Attendance",
       "course": "Data 100",
       "dueDate": "2024-05-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886/assignments/3972426/submissions/239112637",
+      "link": "https://www.gradescope.com/courses/696886/assignments/3972426/submissions/239919572",
       "submitted": true
     },
     {
@@ -358,7 +358,7 @@ assignments = {
       "title": "Grade Report",
       "course": "Data 100",
       "dueDate": "2024-05-18T00:00:00",
-      "link": "https://www.gradescope.com/courses/696886/assignments/4122047/submissions/239789421",
+      "link": "https://www.gradescope.com/courses/696886/assignments/4122047/submissions/239923230",
       "submitted": true
     },
     {
