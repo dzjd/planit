@@ -102,8 +102,8 @@ assignments = {
       "title": "Project 2 Autograder",
       "course": "CS 161",
       "dueDate": "2024-03-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/708067",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708067/assignments/4234740/submissions/239978224",
+      "submitted": true
     },
     {
       "title": "Project 2 Final Design Doc",
