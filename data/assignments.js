@@ -102,7 +102,7 @@ assignments = {
       "title": "Project 2 Autograder",
       "course": "CS 161",
       "dueDate": "2024-03-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/708067/assignments/4234740/submissions/240058990",
+      "link": "https://www.gradescope.com/courses/708067/assignments/4234740/submissions/240064645",
       "submitted": true
     },
     {
