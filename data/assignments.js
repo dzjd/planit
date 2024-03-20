@@ -204,6 +204,13 @@ assignments = {
       "dueDate": "2024-03-18T22:00:00",
       "link": "https://www.gradescope.com/courses/701957/assignments/4230785/submissions/239785949",
       "submitted": true
+    },
+    {
+      "title": "Mid-Semester Feedback",
+      "course": "CS 170",
+      "dueDate": "2024-04-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/701957",
+      "submitted": false
     }
   ],
   "Data 100": [
