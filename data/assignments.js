@@ -406,21 +406,21 @@ assignments = {
     {
       "title": "Project A2 Coding",
       "course": "Data 100",
-      "dueDate": "2024-03-21T23:59:00",
+      "dueDate": "2024-03-22T23:59:00",
       "link": "https://www.gradescope.com/courses/696886/assignments/4216041/submissions/239660561",
       "submitted": true
     },
     {
       "title": "Project A2 Written",
       "course": "Data 100",
-      "dueDate": "2024-03-21T23:59:00",
+      "dueDate": "2024-03-22T23:59:00",
       "link": "https://www.gradescope.com/courses/696886/assignments/4216058/submissions/239660950",
       "submitted": true
     },
     {
       "title": "Project A2 Test Set Predictions",
       "course": "Data 100",
-      "dueDate": "2024-03-21T23:59:00",
+      "dueDate": "2024-03-22T23:59:00",
       "link": "https://www.gradescope.com/courses/696886/assignments/4216061/submissions/239649656",
       "submitted": true
     },
