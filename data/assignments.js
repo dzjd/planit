@@ -211,6 +211,13 @@ assignments = {
       "dueDate": "2024-04-05T23:59:00",
       "link": "https://www.gradescope.com/courses/701957",
       "submitted": false
+    },
+    {
+      "title": "Homework 9 Written Portion",
+      "course": "CS 170",
+      "dueDate": "2024-03-29T22:00:00",
+      "link": "https://www.gradescope.com/courses/701957",
+      "submitted": false
     }
   ],
   "Data 100": [
