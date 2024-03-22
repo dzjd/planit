@@ -437,6 +437,13 @@ assignments = {
       "dueDate": "2024-03-19T23:59:00",
       "link": "https://www.gradescope.com/courses/696886/assignments/4216404/submissions/239524583",
       "submitted": true
+    },
+    {
+      "title": "Lab 09",
+      "course": "Data 100",
+      "dueDate": "2024-04-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
     }
   ],
   "IB 35AC": []
