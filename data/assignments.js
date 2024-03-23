@@ -439,6 +439,20 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Homework 6 Coding",
+      "course": "Data 100",
+      "dueDate": "2024-04-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
+    },
+    {
+      "title": "Homework 6 Written",
+      "course": "Data 100",
+      "dueDate": "2024-04-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
+    },
+    {
       "title": "Lab 09",
       "course": "Data 100",
       "dueDate": "2024-04-02T23:59:00",
