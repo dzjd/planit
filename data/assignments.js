@@ -209,8 +209,8 @@ assignments = {
       "title": "Mid-Semester Feedback",
       "course": "CS 170",
       "dueDate": "2024-04-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/701957",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701957/assignments/4255875/submissions/242426692",
+      "submitted": true
     },
     {
       "title": "Homework 9 Written Portion",
