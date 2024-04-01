@@ -372,7 +372,7 @@ assignments = {
       "title": "Grade Report",
       "course": "Data 100",
       "dueDate": "2024-05-18T00:00:00",
-      "link": "https://www.gradescope.com/courses/696886/assignments/4122047/submissions/239923230",
+      "link": "https://www.gradescope.com/courses/696886/assignments/4122047/submissions/243238408",
       "submitted": true
     },
     {
