@@ -115,7 +115,7 @@ assignments = {
     {
       "title": "Project 3 Writeup",
       "course": "CS 161",
-      "dueDate": "2024-04-12T23:59:00",
+      "dueDate": "2024-04-19T23:59:00",
       "link": "https://www.gradescope.com/courses/708067",
       "submitted": false
     },
