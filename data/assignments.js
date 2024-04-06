@@ -484,15 +484,15 @@ assignments = {
       "title": "Homework 7 Written",
       "course": "Data 100",
       "dueDate": "2024-04-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696886/assignments/4291383/submissions/244604751",
+      "submitted": true
     },
     {
       "title": "Homework 7 Coding",
       "course": "Data 100",
       "dueDate": "2024-04-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696886/assignments/4291399/submissions/244604626",
+      "submitted": true
     },
     {
       "title": "Lab 10",
