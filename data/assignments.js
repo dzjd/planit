@@ -500,6 +500,13 @@ assignments = {
       "dueDate": "2024-04-09T23:59:00",
       "link": "https://www.gradescope.com/courses/696886/assignments/4298549/submissions/244397505",
       "submitted": true
+    },
+    {
+      "title": "[Data 200 Grad Project] Proposal",
+      "course": "Data 100",
+      "dueDate": "2024-04-06T11:47:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
     }
   ],
   "IB 35AC": []
