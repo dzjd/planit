@@ -237,8 +237,8 @@ assignments = {
       "title": "Homework 10 Written Portion",
       "course": "CS 170",
       "dueDate": "2024-04-12T22:00:00",
-      "link": "https://www.gradescope.com/courses/701957",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701957/assignments/4324519/submissions/245526112",
+      "submitted": true
     }
   ],
   "Data 100": [
