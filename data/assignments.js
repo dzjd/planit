@@ -514,6 +514,20 @@ assignments = {
       "dueDate": "2024-04-16T23:59:00",
       "link": "https://www.gradescope.com/courses/696886",
       "submitted": false
+    },
+    {
+      "title": "Project B1 Coding",
+      "course": "Data 100",
+      "dueDate": "2024-04-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
+    },
+    {
+      "title": "Project B1 Written",
+      "course": "Data 100",
+      "dueDate": "2024-04-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
     }
   ],
   "IB 35AC": []
