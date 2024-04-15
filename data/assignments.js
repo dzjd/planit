@@ -125,13 +125,6 @@ assignments = {
       "dueDate": "2024-04-05T23:59:00",
       "link": "https://www.gradescope.com/courses/708067/assignments/4302522/submissions/243578660",
       "submitted": true
-    },
-    {
-      "title": "Homework 7",
-      "course": "CS 161",
-      "dueDate": "2024-04-26T23:59:00",
-      "link": "https://www.gradescope.com/courses/708067/assignments/4329654/submissions/new",
-      "submitted": false
     }
   ],
   "CS 170": [
