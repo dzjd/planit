@@ -125,6 +125,13 @@ assignments = {
       "dueDate": "2024-04-05T23:59:00",
       "link": "https://www.gradescope.com/courses/708067/assignments/4302522/submissions/243578660",
       "submitted": true
+    },
+    {
+      "title": "Homework 7",
+      "course": "CS 161",
+      "dueDate": "2024-04-26T23:59:00",
+      "link": "https://www.gradescope.com/courses/708067/assignments/4329654/submissions/new",
+      "submitted": false
     }
   ],
   "CS 170": [
@@ -535,6 +542,13 @@ assignments = {
       "dueDate": "2024-04-18T23:59:00",
       "link": "https://www.gradescope.com/courses/696886/assignments/4328334/submissions/246493073",
       "submitted": true
+    },
+    {
+      "title": "Final Surveys Proof",
+      "course": "Data 100",
+      "dueDate": "2024-12-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
     }
   ],
   "IB 35AC": []
