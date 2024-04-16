@@ -130,8 +130,8 @@ assignments = {
       "title": "Homework 7",
       "course": "CS 161",
       "dueDate": "2024-04-26T23:59:00",
-      "link": "https://www.gradescope.com/courses/708067/assignments/4329654/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708067/assignments/4329654/submissions/247251310",
+      "submitted": true
     }
   ],
   "CS 170": [
@@ -547,8 +547,8 @@ assignments = {
       "title": "Final Surveys Proof",
       "course": "Data 100",
       "dueDate": "2024-05-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696886/assignments/4365507/submissions/247255150",
+      "submitted": true
     }
   ],
   "IB 35AC": []
