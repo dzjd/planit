@@ -561,8 +561,8 @@ assignments = {
       "title": "Lab 12",
       "course": "Data 100",
       "dueDate": "2024-04-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696886/assignments/4358216/submissions/248284763",
+      "submitted": true
     },
     {
       "title": "[Data 200 Grad Project] NLP Test Set Predictions",
