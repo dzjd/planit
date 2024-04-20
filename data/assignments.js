@@ -267,6 +267,13 @@ assignments = {
       "dueDate": "2024-04-22T22:00:00",
       "link": "https://www.gradescope.com/courses/701957",
       "submitted": false
+    },
+    {
+      "title": "(Extra Credit) Coding Portion",
+      "course": "CS 170",
+      "dueDate": "2024-04-29T22:00:00",
+      "link": "https://www.gradescope.com/courses/701957",
+      "submitted": false
     }
   ],
   "Data 100": [
