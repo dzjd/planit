@@ -316,7 +316,7 @@ assignments = {
       "title": "Lecture Attendance",
       "course": "Data 100",
       "dueDate": "2024-05-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886/assignments/3972426/submissions/247896063",
+      "link": "https://www.gradescope.com/courses/696886/assignments/3972426/submissions/248962426",
       "submitted": true
     },
     {
@@ -386,7 +386,7 @@ assignments = {
       "title": "Discussion Attendance",
       "course": "Data 100",
       "dueDate": "2024-05-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886/assignments/4057763/submissions/246905151",
+      "link": "https://www.gradescope.com/courses/696886/assignments/4057763/submissions/248968781",
       "submitted": true
     },
     {
@@ -582,8 +582,8 @@ assignments = {
       "title": "Project B2 Test Set Predictions",
       "course": "Data 100",
       "dueDate": "2024-04-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696886/assignments/4358579/submissions/248980621",
+      "submitted": true
     },
     {
       "title": "Project B2 Written",
