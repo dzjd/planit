@@ -575,8 +575,8 @@ assignments = {
       "title": "Project B2 Coding",
       "course": "Data 100",
       "dueDate": "2024-04-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696886/assignments/4358577/submissions/249104463",
+      "submitted": true
     },
     {
       "title": "Project B2 Test Set Predictions",
@@ -589,8 +589,8 @@ assignments = {
       "title": "Project B2 Written",
       "course": "Data 100",
       "dueDate": "2024-04-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696886/assignments/4358583/submissions/249104838",
+      "submitted": true
     },
     {
       "title": "[Data 200 Grad Project] NLP Test Set Predictions",
