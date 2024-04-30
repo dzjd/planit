@@ -617,8 +617,8 @@ assignments = {
       "title": "Lab 13",
       "course": "Data 100",
       "dueDate": "2024-04-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/696886",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696886/assignments/4386642/submissions/251182877",
+      "submitted": true
     },
     {
       "title": "[Data 200 Grad Project] First Draft",
