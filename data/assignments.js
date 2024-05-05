@@ -132,6 +132,13 @@ assignments = {
       "dueDate": "2024-04-26T23:59:00",
       "link": "https://www.gradescope.com/courses/708067/assignments/4329654/submissions/247251310",
       "submitted": true
+    },
+    {
+      "title": "Project 2 Extensions Autograder",
+      "course": "CS 161",
+      "dueDate": "2024-06-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/708067",
+      "submitted": false
     }
   ],
   "CS 170": [
