@@ -647,6 +647,13 @@ assignments = {
       "dueDate": "2024-05-10T23:59:00",
       "link": "https://www.gradescope.com/courses/696886",
       "submitted": false
+    },
+    {
+      "title": "Final Exam (Online)",
+      "course": "Data 100",
+      "dueDate": "2024-05-09T11:10:00",
+      "link": "https://www.gradescope.com/courses/696886",
+      "submitted": false
     }
   ],
   "IB 35AC": []
