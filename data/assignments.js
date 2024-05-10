@@ -43,6 +43,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Final Exam (Online)",
+      "course": "CS 161",
+      "dueDate": "2024-05-10T18:02:00",
+      "link": "https://www.gradescope.com/courses/708067/assignments/4050771/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Homework 3",
       "course": "CS 161",
       "dueDate": "2024-02-16T23:59:00",
