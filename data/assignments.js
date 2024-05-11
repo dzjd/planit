@@ -649,7 +649,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "[Data 200 Grad Project] External Peer Review Old",
+      "title": "[Data 200 Grad Project] External Peer Review",
       "course": "Data 100",
       "dueDate": "2024-05-11T23:59:00",
       "link": "https://www.gradescope.com/courses/696886",
