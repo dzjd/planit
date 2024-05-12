@@ -439,6 +439,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Grade Report",
+      "course": "Data 100",
+      "dueDate": "2024-05-18T00:00:00",
+      "link": "https://www.gradescope.com/courses/696886/assignments/4122047/submissions/253695759",
+      "submitted": true
+    },
+    {
       "title": "Lab 06",
       "course": "Data 100",
       "dueDate": "2024-03-05T23:59:00",
