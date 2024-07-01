@@ -143,7 +143,7 @@ assignments = {
     {
       "title": "Project 2 Extensions/Incompletes Autograder",
       "course": "CS 161",
-      "dueDate": "2024-06-30T23:59:00",
+      "dueDate": "2024-08-09T23:59:00",
       "link": "https://www.gradescope.com/courses/708067",
       "submitted": false
     }
