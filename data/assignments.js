@@ -4,8 +4,8 @@ assignments = {
       "title": "Project 1B: Traceroute Error Handling",
       "course": "CS 168",
       "dueDate": "2024-09-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/823258",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/823258/assignments/4823891/submissions/263826246",
+      "submitted": true
     },
     {
       "title": "Project 2: Routing",
