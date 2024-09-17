@@ -34,6 +34,13 @@ assignments = {
       "dueDate": "2024-09-10T23:59:00",
       "link": "https://www.gradescope.com/courses/823258/assignments/4824053/submissions/263815688",
       "submitted": true
+    },
+    {
+      "title": "[Ungraded] Lecture Attendance Checker",
+      "course": "CS 168",
+      "dueDate": "2024-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/823258",
+      "submitted": false
     }
   ]
 };
