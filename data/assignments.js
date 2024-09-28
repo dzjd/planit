@@ -39,8 +39,8 @@ assignments = {
       "title": "HW1: Internet Architecture",
       "course": "CS 168",
       "dueDate": "2024-09-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/823258/assignments/4903817/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/823258/assignments/4903817/submissions/272453088",
+      "submitted": true
     },
     {
       "title": "[Ungraded] Lecture Attendance Checker",
