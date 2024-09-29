@@ -11,8 +11,8 @@ assignments = {
       "title": "Project 2: Routing",
       "course": "CS 168",
       "dueDate": "2024-10-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/823258",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/823258/assignments/4823936/submissions/272632185",
+      "submitted": true
     },
     {
       "title": "Project 3A: Transport Checkpoint",
