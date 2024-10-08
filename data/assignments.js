@@ -53,7 +53,7 @@ assignments = {
       "title": "HW2: Routing",
       "course": "CS 168",
       "dueDate": "2024-10-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/823258",
+      "link": "https://www.gradescope.com/courses/823258/assignments/5112738/submissions/new",
       "submitted": false
     }
   ]
