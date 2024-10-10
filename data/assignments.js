@@ -56,5 +56,6 @@ assignments = {
       "link": "https://www.gradescope.com/courses/823258/assignments/5112738/submissions/new",
       "submitted": false
     }
-  ]
+  ],
+  "UGBA 135 & MBA 296": []
 };
