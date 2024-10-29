@@ -60,7 +60,7 @@ assignments = {
       "title": "HW3: Transport",
       "course": "CS 168",
       "dueDate": "2024-10-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/823258/assignments/5190541/submissions/new",
+      "link": "https://www.gradescope.com/courses/823258",
       "submitted": false
     }
   ],
