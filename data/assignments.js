@@ -1,4 +1,5 @@
 assignments = {
+  "COMPSCI 169A FA24": [],
   "CS 168": [
     {
       "title": "Project 1B: Traceroute Error Handling",
