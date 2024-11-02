@@ -26,8 +26,8 @@ assignments = {
       "title": "Project 3B: Transport",
       "course": "CS 168",
       "dueDate": "2024-11-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/823258",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/823258/assignments/4824050/submissions/284894771",
+      "submitted": true
     },
     {
       "title": "Project 1A: Basic Traceroute",
