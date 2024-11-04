@@ -1,5 +1,13 @@
 assignments = {
-  "COMPSCI 169A FA24": [],
+  "COMPSCI 169A FA24": [
+    {
+      "title": "10.5 Iteration 1: Code Submission",
+      "course": "COMPSCI 169A FA24",
+      "dueDate": "2024-11-18T10:40:00",
+      "link": "https://www.gradescope.com/courses/903858",
+      "submitted": false
+    }
+  ],
   "CS 168": [
     {
       "title": "Project 1B: Traceroute Error Handling",
