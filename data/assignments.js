@@ -8,6 +8,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "10.5: Iteration 1 Planning Meeting",
+      "course": "COMPSCI 169A FA24",
+      "dueDate": "2024-11-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/903858/assignments/5229607/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "10.5 Iteration 1: Code Submission",
       "course": "COMPSCI 169A FA24",
       "dueDate": "2024-11-18T10:40:00",
