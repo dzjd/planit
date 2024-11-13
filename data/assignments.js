@@ -106,6 +106,13 @@ assignments = {
       "dueDate": "2024-10-28T23:59:00",
       "link": "https://www.gradescope.com/courses/823258/assignments/5190541/submissions/284657243",
       "submitted": true
+    },
+    {
+      "title": "HW4: Applications, End-to-End",
+      "course": "CS 168",
+      "dueDate": "2024-11-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/823258/assignments/5309211/submissions/new",
+      "submitted": false
     }
   ],
   "UGBA 135 & MBA 296": []
