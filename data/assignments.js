@@ -17,14 +17,14 @@ assignments = {
     {
       "title": "Iteration Planning Meeting 2",
       "course": "COMPSCI 169A FA24",
-      "dueDate": "2024-11-29T23:59:00",
+      "dueDate": "2024-12-06T23:59:00",
       "link": "https://www.gradescope.com/courses/903858/assignments/5229610/submissions/new",
       "submitted": false
     },
     {
       "title": "Iteration 2 Video Submission",
       "course": "COMPSCI 169A FA24",
-      "dueDate": "2024-11-29T23:59:00",
+      "dueDate": "2024-12-06T23:59:00",
       "link": "https://www.gradescope.com/courses/903858/assignments/5229611/submissions/new",
       "submitted": false
     },
