@@ -41,6 +41,13 @@ assignments = {
       "dueDate": "2024-11-18T23:59:00",
       "link": "https://www.gradescope.com/courses/903858",
       "submitted": false
+    },
+    {
+      "title": "10.5 Iteration 2 (Individual) Retrospective",
+      "course": "COMPSCI 169A FA24",
+      "dueDate": "2024-11-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/903858/assignments/5346433/submissions/new",
+      "submitted": false
     }
   ],
   "CS 168": [
