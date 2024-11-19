@@ -3,7 +3,7 @@ assignments = {
     {
       "title": "10.5 Iteration 1 (Individual) Retrospective",
       "course": "COMPSCI 169A FA24",
-      "dueDate": "2024-11-18T23:59:00",
+      "dueDate": "2024-11-22T23:59:00",
       "link": "https://www.gradescope.com/courses/903858/assignments/5229591/submissions/new",
       "submitted": false
     },
@@ -31,14 +31,14 @@ assignments = {
     {
       "title": "10.5: Iteration 1 Video Submission",
       "course": "COMPSCI 169A FA24",
-      "dueDate": "2024-11-19T23:59:00",
+      "dueDate": "2024-11-18T23:59:00",
       "link": "https://www.gradescope.com/courses/903858/assignments/5229612/submissions/new",
       "submitted": false
     },
     {
       "title": "10.5 Iteration 1: Code Submission",
       "course": "COMPSCI 169A FA24",
-      "dueDate": "2024-11-18T10:40:00",
+      "dueDate": "2024-11-18T23:59:00",
       "link": "https://www.gradescope.com/courses/903858",
       "submitted": false
     }
