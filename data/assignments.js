@@ -52,7 +52,7 @@ assignments = {
     {
       "title": "10.5 Iteration 2: Code Submission",
       "course": "COMPSCI 169A FA24",
-      "dueDate": "2024-11-18T23:59:00",
+      "dueDate": "2024-12-06T23:59:00",
       "link": "https://www.gradescope.com/courses/903858",
       "submitted": false
     }
