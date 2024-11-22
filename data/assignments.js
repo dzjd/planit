@@ -15,9 +15,9 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "10.5: Iteration Planning Meeting 2",
+      "title": "10.5  Iteration 2: Planning Meeting",
       "course": "COMPSCI 169A FA24",
-      "dueDate": "2024-12-06T23:59:00",
+      "dueDate": "2024-11-25T23:59:00",
       "link": "https://www.gradescope.com/courses/903858/assignments/5229610/submissions/new",
       "submitted": false
     },
@@ -47,6 +47,13 @@ assignments = {
       "course": "COMPSCI 169A FA24",
       "dueDate": "2024-12-06T23:59:00",
       "link": "https://www.gradescope.com/courses/903858/assignments/5346433/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "10.5 Iteration 2: Code Submission",
+      "course": "COMPSCI 169A FA24",
+      "dueDate": "2024-11-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/903858",
       "submitted": false
     }
   ],
@@ -120,6 +127,13 @@ assignments = {
       "dueDate": "2024-11-18T23:59:00",
       "link": "https://www.gradescope.com/courses/823258/assignments/5309211/submissions/290481580",
       "submitted": true
+    },
+    {
+      "title": "HW5: Datacenters",
+      "course": "CS 168",
+      "dueDate": "2024-11-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/823258/assignments/5359246/submissions/new",
+      "submitted": false
     }
   ],
   "UGBA 135 & MBA 296": []
