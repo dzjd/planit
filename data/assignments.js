@@ -132,8 +132,8 @@ assignments = {
       "title": "HW5: Datacenters",
       "course": "CS 168",
       "dueDate": "2024-11-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/823258/assignments/5359246/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/823258/assignments/5359246/submissions/292392553",
+      "submitted": true
     }
   ],
   "UGBA 135 & MBA 296": []
