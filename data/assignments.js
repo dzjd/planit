@@ -18,8 +18,8 @@ assignments = {
       "title": "10.5  Iteration 2: Planning Meeting",
       "course": "COMPSCI 169A FA24",
       "dueDate": "2024-11-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/903858/assignments/5229610/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/903858/assignments/5229610/submissions/293603952",
+      "submitted": true
     },
     {
       "title": "Iteration 2 Video Submission",
