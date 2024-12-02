@@ -134,6 +134,13 @@ assignments = {
       "dueDate": "2024-11-25T23:59:00",
       "link": "https://www.gradescope.com/courses/823258/assignments/5359246/submissions/292392553",
       "submitted": true
+    },
+    {
+      "title": "HW6: Special Topics",
+      "course": "CS 168",
+      "dueDate": "2024-12-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/823258/assignments/5392444/submissions/new",
+      "submitted": false
     }
   ],
   "UGBA 135 & MBA 296": []
