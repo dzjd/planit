@@ -22,7 +22,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Iteration 2 Video Submission",
+      "title": "10.5: Iteration 2 Video Submission (Team)",
       "course": "COMPSCI 169A FA24",
       "dueDate": "2024-12-06T23:59:00",
       "link": "https://www.gradescope.com/courses/903858/assignments/5229611/submissions/new",
@@ -50,7 +50,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "10.5 Iteration 2: Code Submission",
+      "title": "10.5: Iteration 2 Code Submission (Team)",
       "course": "COMPSCI 169A FA24",
       "dueDate": "2024-12-06T23:59:00",
       "link": "https://www.gradescope.com/courses/903858",
