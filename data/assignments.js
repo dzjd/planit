@@ -8,6 +8,20 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "[Practice Final] Fall 2020 Final Exam",
+      "course": "COMPSCI 169A FA24",
+      "dueDate": "2024-12-20T22:00:00",
+      "link": "https://www.gradescope.com/courses/903858",
+      "submitted": false
+    },
+    {
+      "title": "[Practice Final] Fall 2021 Final Exam",
+      "course": "COMPSCI 169A FA24",
+      "dueDate": "2024-12-20T11:00:00",
+      "link": "https://www.gradescope.com/courses/903858/assignments/5229601/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "10.5: Iteration 1 Planning Meeting",
       "course": "COMPSCI 169A FA24",
       "dueDate": "2024-11-11T23:59:00",
@@ -53,6 +67,13 @@ assignments = {
       "title": "10.5: Iteration 2 Code Submission (Team)",
       "course": "COMPSCI 169A FA24",
       "dueDate": "2024-12-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/903858",
+      "submitted": false
+    },
+    {
+      "title": "Submit Your Cheat Sheet",
+      "course": "COMPSCI 169A FA24",
+      "dueDate": "2024-12-19T18:00:00",
       "link": "https://www.gradescope.com/courses/903858",
       "submitted": false
     }
