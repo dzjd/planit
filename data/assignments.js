@@ -11,7 +11,7 @@ assignments = {
       "title": "[Practice Final] Fall 2020 Final Exam",
       "course": "COMPSCI 169A FA24",
       "dueDate": "2024-12-20T22:00:00",
-      "link": "https://www.gradescope.com/courses/903858",
+      "link": "https://www.gradescope.com/courses/903858/assignments/5229595/submissions/new",
       "submitted": false
     },
     {
