@@ -160,8 +160,8 @@ assignments = {
       "title": "HW6: Special Topics",
       "course": "CS 168",
       "dueDate": "2024-12-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/823258/assignments/5392444/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/823258/assignments/5392444/submissions/295420378",
+      "submitted": true
     }
   ],
   "UGBA 135 & MBA 296": []
