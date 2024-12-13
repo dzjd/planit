@@ -3,7 +3,7 @@ assignments = {
     {
       "title": "10.5 Iteration 1 (Individual) Retrospective",
       "course": "COMPSCI 169A FA24",
-      "dueDate": "2024-11-22T23:59:00",
+      "dueDate": "2024-12-12T23:59:00",
       "link": "https://www.gradescope.com/courses/903858/assignments/5229591/submissions/291197350",
       "submitted": true
     },
