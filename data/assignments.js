@@ -60,15 +60,15 @@ assignments = {
       "title": "10.5 Iteration 2 (Individual) Retrospective",
       "course": "COMPSCI 169A FA24",
       "dueDate": "2024-12-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/903858/assignments/5346433/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/903858/assignments/5346433/submissions/297158975",
+      "submitted": true
     },
     {
       "title": "10.5: Iteration 2 Code Submission (Team)",
       "course": "COMPSCI 169A FA24",
       "dueDate": "2024-12-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/903858",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/903858/assignments/5365233/submissions/297118976",
+      "submitted": true
     },
     {
       "title": "Submit Your Cheat Sheet",
