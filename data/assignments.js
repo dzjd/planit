@@ -164,5 +164,6 @@ assignments = {
       "submitted": true
     }
   ],
+  "CS 197 CPT": [],
   "UGBA 135 & MBA 296": []
 };
