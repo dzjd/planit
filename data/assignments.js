@@ -164,6 +164,14 @@ assignments = {
       "submitted": true
     }
   ],
-  "CS 197 CPT": [],
+  "CS 197 CPT": [
+    {
+      "title": "CPT Report.",
+      "course": "CS 197 CPT",
+      "dueDate": "2024-12-31T00:00:00",
+      "link": "https://www.gradescope.com/courses/928139",
+      "submitted": false
+    }
+  ],
   "UGBA 135 & MBA 296": []
 };
