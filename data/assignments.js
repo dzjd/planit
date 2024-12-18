@@ -74,8 +74,8 @@ assignments = {
       "title": "Submit Your Cheat Sheet",
       "course": "COMPSCI 169A FA24",
       "dueDate": "2024-12-19T18:00:00",
-      "link": "https://www.gradescope.com/courses/903858",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/903858/assignments/5411593/submissions/298241214",
+      "submitted": true
     }
   ],
   "CS 168": [
