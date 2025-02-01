@@ -43,6 +43,13 @@ assignments = {
       "dueDate": "2025-01-29T23:59:00",
       "link": "https://www.gradescope.com/courses/949051/assignments/5576303/submissions/303344941",
       "submitted": true
+    },
+    {
+      "title": "HW2 Write-Up",
+      "course": "CS 189/289A",
+      "dueDate": "2025-02-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/949051",
+      "submitted": false
     }
   ]
 };
