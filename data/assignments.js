@@ -11,8 +11,8 @@ assignments = {
       "title": "Programming Assignment 2: DOM Basics",
       "course": "CS 160/260A (Spring 2025)",
       "dueDate": "2025-02-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/959556",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/959556/assignments/5765265/submissions/309090695",
+      "submitted": true
     }
   ],
   "CS 189/289A": [
