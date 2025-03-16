@@ -17,7 +17,7 @@ assignments = {
     {
       "title": "Programming Assignment 3: Web APIs and design mockups",
       "course": "CS 160/260A (Spring 2025)",
-      "dueDate": "2025-03-14T23:59:00",
+      "dueDate": "2025-03-16T23:59:00",
       "link": "https://www.gradescope.com/courses/959556",
       "submitted": false
     }
